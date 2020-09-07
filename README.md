@@ -8,8 +8,9 @@ My system is very user friendly and written in Java and MySQL. The owner and rec
 
 
 
-• Technology Stack: Java 8, MySQL, NetBeans
-• Architectural Design: Layered Architecture
+• Technology Stack: Java 8, MySQL, NetBeans.
+
+• Architectural Design: Layered Architecture.
 
 
 

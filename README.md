@@ -5,9 +5,9 @@ The purpose of my project entitled as “Food_shop_mangement_System” is to com
 My system is very user friendly and written in Java and MySQL. The owner and receptionist can access the system. Owner has full access to the system he can do anything. For example, add, delete and edit Order and employees. 
 
 
-### * Technology Stack: Java 8, MySQL, NetBeans.
+#### Technology Stack: Java 8, MySQL, NetBeans.
 
-### * Architectural Design: Layered Architecture.
+#### Architectural Design: Layered Architecture.
 
 
 
